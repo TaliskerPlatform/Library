@@ -1,0 +1,15 @@
+[submodule "Fonts"]
+	path = Fonts
+	url = git://github.com/TaliskerPlatform/Fonts.git
+[submodule "DesktopPictures"]
+	path = DesktopPictures
+	url = git://github.com/TaliskerPlatform/DesktopPictures.git
+[submodule "ColorSchemes"]
+	path = ColorSchemes
+	url = git://github.com/TaliskerPlatform/ColorSchemes.git
+[submodule "Stationery"]
+	path = Stationery
+	url = git://github.com/TaliskerPlatform/Stationery.git
+[submodule "Icons"]
+	path = Icons
+	url = git://github.com/TaliskerPlatform/Icons.git
